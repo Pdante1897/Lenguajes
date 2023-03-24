@@ -1,0 +1,12 @@
+C:\Users\Bryan\source\repos\Proyecto1L\Proyecto1L\bin\Debug\Proyecto1L.exe.config
+C:\Users\Bryan\source\repos\Proyecto1L\Proyecto1L\bin\Debug\Proyecto1L.exe
+C:\Users\Bryan\source\repos\Proyecto1L\Proyecto1L\bin\Debug\Proyecto1L.pdb
+C:\Users\Bryan\source\repos\Proyecto1L\Proyecto1L\obj\Debug\Proyecto1L.Form1.resources
+C:\Users\Bryan\source\repos\Proyecto1L\Proyecto1L\obj\Debug\Proyecto1L.Properties.Resources.resources
+C:\Users\Bryan\source\repos\Proyecto1L\Proyecto1L\obj\Debug\Proyecto1L.csproj.GenerateResource.cache
+C:\Users\Bryan\source\repos\Proyecto1L\Proyecto1L\obj\Debug\Proyecto1L.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\source\repos\Proyecto1L\Proyecto1L\obj\Debug\Proyecto1L.exe
+C:\Users\Bryan\source\repos\Proyecto1L\Proyecto1L\obj\Debug\Proyecto1L.pdb
+C:\Users\Bryan\source\repos\Proyecto1L\Proyecto1L\bin\Debug\itextsharp.dll
+C:\Users\Bryan\source\repos\Proyecto1L\Proyecto1L\bin\Debug\itextsharp.xml
+C:\Users\Bryan\source\repos\Proyecto1L\Proyecto1L\obj\Debug\Proyecto1L.csproj.CopyComplete

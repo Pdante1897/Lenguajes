@@ -1,0 +1,10 @@
+C:\Users\Bryan\source\repos\PracticaL\PracticaL\bin\Debug\PracticaL.exe.config
+C:\Users\Bryan\source\repos\PracticaL\PracticaL\bin\Debug\PracticaL.exe
+C:\Users\Bryan\source\repos\PracticaL\PracticaL\bin\Debug\PracticaL.pdb
+C:\Users\Bryan\source\repos\PracticaL\PracticaL\obj\Debug\PracticaL.csprojAssemblyReference.cache
+C:\Users\Bryan\source\repos\PracticaL\PracticaL\obj\Debug\PracticaL.Form1.resources
+C:\Users\Bryan\source\repos\PracticaL\PracticaL\obj\Debug\PracticaL.Properties.Resources.resources
+C:\Users\Bryan\source\repos\PracticaL\PracticaL\obj\Debug\PracticaL.csproj.GenerateResource.cache
+C:\Users\Bryan\source\repos\PracticaL\PracticaL\obj\Debug\PracticaL.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\source\repos\PracticaL\PracticaL\obj\Debug\PracticaL.exe
+C:\Users\Bryan\source\repos\PracticaL\PracticaL\obj\Debug\PracticaL.pdb

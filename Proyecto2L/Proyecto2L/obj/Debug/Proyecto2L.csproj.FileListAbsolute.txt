@@ -1,0 +1,19 @@
+C:\Users\Bryan\source\repos\Proyecto2L\Proyecto2L\bin\Debug\Proyecto2L.exe.config
+C:\Users\Bryan\source\repos\Proyecto2L\Proyecto2L\bin\Debug\Proyecto2L.exe
+C:\Users\Bryan\source\repos\Proyecto2L\Proyecto2L\bin\Debug\Proyecto2L.pdb
+C:\Users\Bryan\source\repos\Proyecto2L\Proyecto2L\obj\Debug\Proyecto2L.csprojAssemblyReference.cache
+C:\Users\Bryan\source\repos\Proyecto2L\Proyecto2L\obj\Debug\Proyecto2L.Form1.resources
+C:\Users\Bryan\source\repos\Proyecto2L\Proyecto2L\obj\Debug\Proyecto2L.Properties.Resources.resources
+C:\Users\Bryan\source\repos\Proyecto2L\Proyecto2L\obj\Debug\Proyecto2L.csproj.GenerateResource.cache
+C:\Users\Bryan\source\repos\Proyecto2L\Proyecto2L\obj\Debug\Proyecto2L.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\source\repos\Proyecto2L\Proyecto2L\obj\Debug\Proyecto2L.exe
+C:\Users\Bryan\source\repos\Proyecto2L\Proyecto2L\obj\Debug\Proyecto2L.pdb
+E:\Nueva carpeta\docs\Latitude\source\repos\Proyecto2L\Proyecto2L\bin\Debug\Proyecto2L.exe.config
+E:\Nueva carpeta\docs\Latitude\source\repos\Proyecto2L\Proyecto2L\bin\Debug\Proyecto2L.exe
+E:\Nueva carpeta\docs\Latitude\source\repos\Proyecto2L\Proyecto2L\bin\Debug\Proyecto2L.pdb
+E:\Nueva carpeta\docs\Latitude\source\repos\Proyecto2L\Proyecto2L\obj\Debug\Proyecto2L.csprojAssemblyReference.cache
+E:\Nueva carpeta\docs\Latitude\source\repos\Proyecto2L\Proyecto2L\obj\Debug\Proyecto2L.Form1.resources
+E:\Nueva carpeta\docs\Latitude\source\repos\Proyecto2L\Proyecto2L\obj\Debug\Proyecto2L.Properties.Resources.resources
+E:\Nueva carpeta\docs\Latitude\source\repos\Proyecto2L\Proyecto2L\obj\Debug\Proyecto2L.csproj.GenerateResource.cache
+E:\Nueva carpeta\docs\Latitude\source\repos\Proyecto2L\Proyecto2L\obj\Debug\Proyecto2L.exe
+E:\Nueva carpeta\docs\Latitude\source\repos\Proyecto2L\Proyecto2L\obj\Debug\Proyecto2L.pdb
